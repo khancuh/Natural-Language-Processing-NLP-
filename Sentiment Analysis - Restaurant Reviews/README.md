@@ -2,6 +2,10 @@ Project Overview
 
 • Created a machine learning model that classifies a Positive Review or Negative Review based on the textual data using Natural Language Processing (NLP).
 
+If positive Review Repersent by: 1 
+
+If negative Review Repersent by: 0
+
 
 • This project helps in classifies the Review from the Resturant.
 
