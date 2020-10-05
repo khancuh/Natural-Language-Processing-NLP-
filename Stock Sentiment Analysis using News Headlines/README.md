@@ -1,4 +1,4 @@
-Stock Sentiment Analysis using News Headlines.
+Project Headline: Stock Sentiment Analysis using News Headlines.
 
 problem and the Data set used:
 
