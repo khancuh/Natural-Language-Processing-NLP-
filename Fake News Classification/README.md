@@ -19,6 +19,7 @@ text: the text of the article; cloud be incomplete
 label: a label that marks the article as  potentially unrliable. 
 
  -> 0: reliable
+ 
  ->1: unreliable
  
 test.csv: A tseting and training data set all the same attributes at train.csv without the label.
