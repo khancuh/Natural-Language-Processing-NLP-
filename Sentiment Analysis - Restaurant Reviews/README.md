@@ -1,15 +1,8 @@
-Project Overview
+Project Title: Restaurant Reviews Classification using Sentiment Analysis.
 
-• Created a machine learning model that classifies a Positive Review or Negative Review based on the textual data using Natural Language Processing (NLP).
+Problem Statement: Created a machine learning model that classifies a Positive Review or Negative Review based on the textual data using Natural Language Processing (NLP).
 
-lets-
-
-If positive Review Repersent by: 1 
-
-If negative Review Repersent by: 0
-
-
-• This project helps in classifies the Review from the Resturant.
+Solve Probelm: The main aim of this project to classify the restaurant reviews is positive review or negative review based on the textual data using Natural language processing. to solve this problem, I have worked on the textual data set. It contanious extract features of Positive review or not. to solve this problem I have used Multinomial Naive Bayes Classifier.
 
 Resources Used
 
