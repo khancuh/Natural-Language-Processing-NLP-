@@ -1,28 +1,19 @@
-Project Title: Moves Genre Classification and Prediction
-
-Data Set Description: In this data set includes Two files train.csv and test.csv file.
-
-train.csv:
-
-A train.csv file includes three column. 
-
-id: An arbitrary id assigned to a record.
-
-text: A 1000 Characters span randomaly sampled from a move script. 
-
-Genre: The genre of the move the text came from, from the set {drama, thriller, action, comedy, romance, sci-fi, adventure, horror, other}.
-
-Test.csv:
-
-The test data file has only two columns:
-
-id: An arbitary id assigned to a record.
-
-text: A 1000 Characters span randomaly sampled from a move script.
-
-Probelom Statement: Predicting the genre of move from just 1000 characters of the script.
-
-Solve this Problem: The main aim of this project to predict the genre of move from just 1000 characters. to solve this problem, i have worked on the text data set It Continuous extract features of , thriller, comedy, drama, action, sci-fi, other, romance, horror, adventure. To solve this problem, I have used Multinomial Naive_Bayes algorithm. 
-
+# Movies-Genre-Classification
+![index4](https://user-images.githubusercontent.com/76062093/103790190-e42d6a80-5066-11eb-8041-a32e6c7b8cfe.jpeg)
 
 Dataset by Machine Learing on Kaggle: https://www.kaggle.com/c/moviegenres/overview
+
+#Problem Statement-: Can you predict the genre of move from just 1000 characters of the script.
+
+#Resources Used-: Sklearn, numpy, pandas, nltk, seaborn, matplotlib etc.
+
+                                                         Exploratry Data Analysis with Visulization
+
+![index](https://user-images.githubusercontent.com/76062093/103795171-aa129780-506b-11eb-8563-e1dcaa7fa888.png)
+
+#Algorithm used-:
+
+Multinomial Naive Bayes Classifier
+
+
+
