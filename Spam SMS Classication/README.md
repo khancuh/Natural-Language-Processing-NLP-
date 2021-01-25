@@ -21,5 +21,5 @@ Random Forest Classifier (RFC)
 
 Multinomial Naive Bayes Classifier (MNB)
 
-Decision Tree Classifier (DT)
+Decision Tree Classifier(DT)
 
