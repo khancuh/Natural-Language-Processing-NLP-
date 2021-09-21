@@ -3,7 +3,6 @@
 
 #Problem Statement-: Apply Machine learning to detect if an API request contains cyber security attack/injection. 
 
-#Dataset Link-: https://www.kaggle.com/c/wallarm-ml-hackathon
 
 #Resources Used-: Pandas, Numpy, Sklearn, nltk, msgpack, Seaborn, Matplotlib etc.
 
